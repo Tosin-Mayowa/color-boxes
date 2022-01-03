@@ -1,0 +1,12 @@
+.Box{
+    width: 200px;
+    height: 200px;
+}
+
+.Box-name{
+    text-align: center;
+    font-size: 14px;
+    color: white;
+    margin-top: 150px;
+
+}
