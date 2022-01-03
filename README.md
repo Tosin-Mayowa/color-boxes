@@ -1,3 +1,7 @@
+# React Color Generating Boxes
+Each box generate unlimited hex color as you click.
+Each Box has its own click event, and can display unlimited hex color, wth the hex color code display on each box.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
